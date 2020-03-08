@@ -1,0 +1,67 @@
+.App {
+  font-family: sans-serif;
+  text-align: right;
+}
+
+.btnAdd {
+  width: 5%;
+  height: 10%;
+  padding: 5px 10px;
+  margin-right: 150px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  background-color: rgb(70, 150, 229);
+  color: white;
+}
+.searchBar {
+  text-align: right;
+  /* width: 100%;
+  height: 100%; */
+  border: 1px solid;
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(70, 150, 229);
+  color: white;
+}
+.searchBar h1 {
+  padding-right: 150px;
+  font-size: 40px;
+}
+.searchBar h4 {
+  padding-right: 150px;
+  font-size: 15px;
+}
+.bar {
+  width: 80%;
+  padding: 11px;
+  margin-right: 150px;
+  color: rgb(70, 150, 229);
+  border-radius: 8px;
+}
+.secTitle {
+  text-align: center;
+  color: #747474;
+  margin: 40px 0px;
+}
+.completeBtn {
+  padding: 10px;
+  background-color: white;
+  margin-left: 100px;
+  margin-right: 5px;
+  color: #747474;
+  border-radius: 2px;
+}
+.delBtn {
+  padding: 10px;
+  background-color: white;
+  color: #747474;
+  border-radius: 2px;
+}
+span {
+  color: #747474;
+  margin-left: 100px;
+  font-size: 20px;
+}
+.todo {
+  margin: 20px 0px;
+}
