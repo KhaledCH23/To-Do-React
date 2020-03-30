@@ -27,8 +27,7 @@ class App extends Component {
         ],
         grabbedValue: ""
       });
-    } else {
-      alert("maha2ah");
+    }
     }
   };
   completeTodo = i => {
