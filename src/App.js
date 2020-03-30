@@ -28,6 +28,8 @@ class App extends Component {
         grabbedValue: ""
       });
     }
+    else {
+    alert("Please type something...")
     }
   };
   completeTodo = i => {
